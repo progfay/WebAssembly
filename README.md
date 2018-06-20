@@ -1,4 +1,4 @@
-# wasb
+# WebAssembly
 
 getting started [WebAssembly](https://webassembly.org/getting-started/developers-guide/) with C
 
